@@ -12,7 +12,7 @@ namespace OrbwalkingMode
 
     using Ensage;
     using Ensage.SDK.Abilities;
-    using Ensage.SDK.Abilities.npc_dota_hero_sky;
+    using Ensage.SDK.Abilities.npc_dota_hero_skywrath_mage;
     using Ensage.SDK.Extensions;
     using Ensage.SDK.Helpers;
     using Ensage.SDK.Orbwalker.Metadata;
